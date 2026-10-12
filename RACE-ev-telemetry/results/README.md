@@ -1,0 +1,1 @@
+Add actual test evidence here, such as TFT/OLED working photos, GPS serial output with a valid fix, microSD file listing, and logger test results. Do not upload secrets, personal data, or GPS routes you do not want public.
